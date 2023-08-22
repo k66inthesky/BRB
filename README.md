@@ -37,7 +37,9 @@ BRB GUI currently support <u>(Gnome Desktop)</u>. In the near future we plan to 
 - [Demo Video](#demo-video)
 - [Dependencies](#dependencies)
     - [Python dependencies](#python-dependencies)
-    - [BRB GUI dependencies](#BRB-gui-dependencies)
+    - [GUI dependencies](#gui-dependencies)
+- [Run](#run)
+  - [Linux](#linux)
   
 # Demo Video
 https://github.com/k66inthesky/BRB/assets/45890492/9cc61814-ccc2-4a3c-a8a3-da4235cc6b63
@@ -49,13 +51,17 @@ https://github.com/k66inthesky/BRB/assets/45890492/9cc61814-ccc2-4a3c-a8a3-da423
 - python >= 3.9
 - gi = 3.44.1
 
-
-### BRB GUI dependencies
-
+#### GUI dependencies
 | **Distro**                              | **Command**                                                                                                     |
 |:----------------------------------------|:---------------------------------------------------------------------------------------|
 |Fedora/CentOS/RHEL                       | `sudo dnf install -y python3-gobject gtk3`                                                                      |
 |Ubuntu/Linux Mint/Debian and derivatives | `sudo apt install -y python3-gi python3-gi-cairo gir1.2-gtk-3.0`                                                |
 |OpenSUSE/SLES                            | `sudo zypper install python3-gobject python3-gobject-Gdk typelib-1_0-Gtk-3_0 libgtk-3-0`                        |
 |Arch Linux/Manjaro                       | `sudo pacman -S python-gobject gtk3` 
+
+# Run
+#### Linux
+```
+./BRB-linux_1.0.0
+```
 
