@@ -1,9 +1,13 @@
-<h1 align="center">BRB</h1>
+<h1 align="center">
+  BRB
+  <img src="/wallpaper/Logo.ico" alt="BRB logo" ></img>
+</h1>
 <h3 align="center">Immediately tell people you will Be Right Back(BRB), in conference or write a bulletin note.</h3>
 <p align="center">
-  <img src="/wallpaper/Logo.png" alt="BRB logo"></img>
+  <img src="/wallpaper/BRB.png" alt="BRB logo" height="400" width="600" ></img>
 </p>
 
+<!--
 <p align="center">
     <a href="https://github.com/k66inthesky">
         <img alt="Github Follow" src="https://play.google.com/store/apps/details?id=com.github.android&hl=zh_TW">
@@ -29,8 +33,9 @@
   </a>
 </p>
 
-**Disclaimer:**
-BRB GUI currently support <u>(Gnome Desktop)</u>. In the near future we plan to support Windows/MacOS and more Linux Desktops.
+-->
+
+***Disclaimer: BRB GUI currently support <u>(Gnome Desktop)</u>. In the near future we plan to support Windows/MacOS and more Linux Desktops.***
 
 
 ## Table of Contents
